@@ -1,10 +1,10 @@
 # Foodie
 Thid is a simulated mobile application for food delivery
 <p align="horizontal">
-<img src="images/pageone.png" width="200" >
+<img src="images/pageone.jpeg" width="200" >
 <img src="images/pagetwo.jpeg" width="200" >
-<img src="images/pagethree.png" width="200" >
-<img src="images/pagefour.png" width="200" >
+<img src="images/pagethree.jpeg" width="200" >
+<img src="images/pagefour.jpeg" width="200" >
 </p>
 
 ## Description
